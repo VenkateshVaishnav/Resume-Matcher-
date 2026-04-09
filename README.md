@@ -28,3 +28,4 @@ FAISS (Vector Database)
 Sentence Transformers
 Groq API (Llama 3 Model)
 Streamlit
+
